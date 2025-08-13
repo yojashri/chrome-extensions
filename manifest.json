@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Show Tab Title",
+  "version": "1.0",
+  "description": "Popup shows current tab’s title when button is clicked.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png"
+    }
+  },
+  "permissions": ["tabs"]
+}
